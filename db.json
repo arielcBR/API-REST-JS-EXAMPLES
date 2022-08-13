@@ -1,23 +1,28 @@
 {
   "santos": [
     {
-      "id": 1,
-      "nombre": "Seya",
-      "constelacion": "Pegaso"
-    },
-    {
       "id": 2,
       "nombre": "Shiryu",
       "constelacion": "Dragón"
     },
     {
-      "id": 4,
+      "id": 3,
       "nombre": "Shun",
       "constelacion": "Andrómeda"
     },
     {
-      "name": "Saga",
+      "nombre": "Saga",
       "constelacion": "Gemini",
+      "id": 4
+    },
+    {
+      "nombre": "Mu",
+      "constelacion": "Aries",
+      "id": 5
+    },
+    {
+      "nombre": "Alderaban",
+      "constelacion": "Tauro",
       "id": 6
     }
   ],
